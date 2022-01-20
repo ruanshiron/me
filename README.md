@@ -7,21 +7,22 @@
   </a>
 </div>
 
-Hi, it's Ruanshiron! ✨
+こんにちは。ゲン・テー・ヴィンです。
 
-This document contains my background information for programmer work.
+以下、私の自己紹介と自己 PR です。
 
-**_Summary_**
+**_基本情報_**
 
-- :name_badge: Nguyen The Vinh
-- :house: Hanoi, Vietnam 🇻🇳
-- :school: Hanoi University of Science and Technology (HUST)
-- :briefcase: Ruby, JavaScript, ReactJS, Vue, Rails
-- :speech_balloon: Vietnamese, Japanese, English
+- 名前：グエン・テー・ヴィン
+- 生年月日：1998/12/26
+- 現住所：ハノイ、ベトナム
+- 大学：ハノイ工科大学・卒業年月：2021/07
+- IT スキル：Ruby, JavaScript, ReactJS, Vue, Rails
+- 言語：英語、日本語
 - :tada: Cycling 🚲 for now
 
-- :octocat: https://github.com/ruanshiron, https://github.com/vinhactindi
-- :school_satchel: Fjord Bootcamp [@vinhactindi](https://bootcamp.fjord.jp/users/1270)
+- ソーシャルアカウント：https://github.com/ruanshiron, https://github.com/vinhactindi
+- Fjord Bootcamp [@vinhactindi](https://bootcamp.fjord.jp/users/1270)
 
 **_Details_**
 
@@ -29,110 +30,119 @@ This document contains my background information for programmer work.
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#personal">Personal</a>
+      <a href="#personal">個人情報</a>
     </li>
     <li>
-      <a href="#education">Education</a>
+      <a href="#education">学歴・資格</a>
       <ul>
-        <li><a href="#high-school">High School</a></li>
-        <li><a href="#university">University</a></li>
+        <li><a href="#university">大学</a></li>
+        <li><a href="#qualifications">資格</a></li>
       </ul>
     </li>
     <li>
-      <a href="#intern-and-work">Intern and work</a>
+      <a href="#intern-and-work">インターン経験・職務経験</a>
       <ul>
         <li><a href="#ominext-jsc-201806---201811">Ominext JSC (2018/06 - 2018/11)</a></li>
         <li><a href="#sun-202007---202009">Sun* (2020/07 - 2020/09)</a></li>
         <li><a href="#ghdc-202010---202103">GHDC (2020/10 - 2021/03)</a></li>
-        <li><a href="#fjord-bootcamp-202110---now">Fjord Bootcamp (2021/10 - now)</a></li>
+        <li><a href="#fjord-bootcamp-202110---now">Fjord Bootcamp (2021/10 - 現在)</a></li>
       </ul>
     </li>
-    <li><a href="#languages">Languages</a></li>
-    <li><a href="#hobbies">Hobbies</a></li>
-    <li><a href="#projects">Projects</a></li>
+    <li><a href="#hobbies">趣味</a></li>
+    <li><a href="#projects">プロジェクト</a></li>
   </ol>
 </details>
 
-## Personal
+## 個人情報
 
-My name is Nguyen The Vinh (🇻🇳). I currently live in Hanoi.
+私はゲン・テー・ヴィンです。ハノイから来ました。
 
-## Education
+## 学歴・資格
 
-### High School
+### 学歴
 
-Just a normal student at a normal high school 😅.
+- 大学： **ハノイ工科大学**
+- 卒業年月： **2021/07**
+- CPA： **3.1**
 
-### University (2016 - 2021)
+### 資格
 
-I completed my engineering degree at Hanoi University of Science and Technology (HUST) 🤔 on time 😅.
+- 資格名：`ロボティクスgPBL修了証`・受験日：`2018/03`
+- 資格名：`JLPTN3`・受験日：`2019/12`
+- 資格名：`FE`・受験日：`2020/10`
 
-## Intern and work
-
-During college i interned and worked in several places related to programming and i enjoyed it very much.
+## インターン経験・職務経験
 
 ### Ominext JSC (2018/06 - 2018/11)
 
-I joined an internship program of Ominext JSC called Sakura Campus. I joined a team of 6 members, they are also trainees like me. We completed an internship with a face recognition project using the Kairos API. I learned a lot about iOS and Swift even though I don't use them now but it was a great experience. After 2 months of that program, I stayed as a software development associate (not too much to say).
+- 業務内容：IOS アプリの作成
+- 言語：Swift
+- OS：macOS
+- DB：Realm.io
+- バージョン管理システーム：Git
 
 ### Sun\* (2020/07 - 2020/09)
 
-This is the 4th year of college, we have to participate in the school's internship program. Most of my friends are interns at Sun\* and so am I. At this point we are learning ruby and Rails. We were assigned the topic of doing a recruitment website project. We finished the program quite well 👍.
+- 言語：Ruby and rails
+- フレームワーク：rails
+- OS：macOS
+- DB：Postgre
+- バージョン管理システーム：Git
+- 業務内容：バックエンドの開発
 
 ### GHDC (2020/10 - 2021/03)
 
-I found a part-time job thanks to an acquaintance. Work related to Angular, but really I didn't learn too much after this time. I found Angular to be more complicated, the company had its own code-base and I just had to follow through 😓.
+- 言語：TypeScript
+- フレームワーク：Angular
+- OS：macOS
+- バージョン管理システーム：Git
+- 業務内容：フロントエンドの作成
 
 ### Fjord Bootcamp (2021/10 - now)
 
-During Actindi's training, I learned on the website https://bootcamp.fjord.jp/. I learned a lot here about programming, Rails and Vue. As the name suggests, at bootcamp I learned a lot of great code from other people. I also wrote some other useful code while here.
+- URL：https://bootcamp.fjord.jp/
+- 言語：Ruby & JavaScript
+- フレームワーク：Rails & Vue
+- OS：macOS
+- DB：Postgre
+- バージョン管理システーム：Git
+- 業務内容：プログラミングの勉強
 
-## Languages
+## 趣味
 
-I don't really have a talent for foreign languages. Languages I know:
+私の趣味はアニメとサイクリングです。ストレスを解消したい時に、アニメをよく見ます。一番好きなアニメは「鬼滅の刃」です。時々、日本語の聴解力を向上するために、ベトナム語の字幕をオフにして、アニメを見ます。健康のために、最近、毎週に、二、三回サイクリングしています。毎回、１０キロメートルです。私にとって、サイクリングしているのは最も爽やかな気持ちです。
 
-- Vietnamese 🇻🇳 (of course)
-- English (5/10)
-- 日本語 (5/10)
+## プロジェクト
 
-## Hobbies
+私の GitHub へようこそ! [@ruanshiron](https://github.com/ruanshiron) と [@vinhactindi](https://github.com/vinhactindi) (Fjord Bootcamp)
 
-I don't have any long-term preferences. I used to like to draw a little bit, read a little book. Lately I've been enjoying cycling.
-
-## Projects
-
-Check out my github for more [@ruanshiron](https://github.com/ruanshiron) or [@vinhactindi](https://github.com/vinhactindi) (Fjord Bootcamp)
-
-- Fun 🥳
-  - [oumiji](#oumiji)
-  - [rsa-demo](#rsa-demo)
-  - [sorting-demonstration](#sorting-demonstration)
-  - [gomoku-react](#sorting-demonstration)
-  - [food-guide](#sorting-demonstration)
-- Serious 🤔
-  - [cm](#cm)
-- Fjord Bootcamp 🏕
-  - [pofocus](#pofocus)
-  - [currency_numberal](#pofocus)
+- [oumiji](#oumiji)
+- [rsa-demo](#rsa-demo)
+- [sorting-demonstration](#sorting-demonstration)
+- [gomoku-react](#sorting-demonstration)
+- [food-guide](#sorting-demonstration)
+- [cm](#cm)
+- [pofocus](#pofocus)
+- [currency_numberal](#pofocus)
 
 ### oumiji
 
 - :octocat: https://github.com/ruanshiron/oumiji
 
-An iOS application with facial recognition function (using Kairos API) used as an application to collect emotional evaluation of employees in the company.
+社内の会社員の感情的評価を収集するための顔認識機能を備えた iOS アプリケーションです。（Kairos API の使用）
 
 ### rsa-demo
 
 - :earth_asia: https://ruanshiron.com/rsa-demo
 - :octocat: https://github.com/ruanshiron/rsa-demo
 
-A simple encryption and decryption application that used to demo the theory of RSA encryption.
+RSA 暗号化の理論を実証するための暗号化および復暗号化アプリケーションです。
 
 ### sorting-demonstration
 
 - :octocat: https://github.com/ruanshiron/Sorting-Demonstration
 
-An application that describes how the sorting algorithm works.
+ソートアルゴリズムがどのように動作するかを説明するアプリケーションです。
 
 ### gomoku-react
 
@@ -140,31 +150,31 @@ An application that describes how the sorting algorithm works.
 - :octocat: https://github.com/ruanshiron/gomoku-react
 - :octocat: https://github.com/ruanshiron/x-vs-o (source code for online version)
 
-A simple gomoku game. It has an online version but I had to stop its firebase service.
+シンプルな五目並べゲームです。 オンラインバージョンがありますが、Firebase サービスを停止しました。
 
 ### food-guide
 
 - :earth_asia: https://food-guide.vercel.app/
 - :octocat: https://github.com/ruanshiron/food-guide
 
-A cookpad clone app but cheaper 😅.
+クックパッドのクローンアプリです。
 
 ### cm
 
 - :octocat: https://github.com/ruanshiron/cm_client
 
-An application with statistical functions for clothing production hire.
+卒業論文のプロジェクトです。小さい規模の縫製工場に関するデータを管理するアプリケーションです。
 
 ### pofocus
 
 - :earth_asia: https://www.npmjs.com/package/pofocus
 
-My first npm package, it's a pomodoro countdown app.
+私の最初の npm パッケージというポモドーロカウントダウンアプリです。
 
 ### currency_numberal
 
 - :earth_asia: https://rubygems.org/gems/currency_numberal
 
-My first rubygem that use for currency exchange.
+外国為替レートのための RubyGem です。
 
-**_Arigathank Gozaimuch!_**
+**_以上！ご覧頂きましてありがとうございます。_**
