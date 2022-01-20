@@ -11,6 +11,9 @@ This document contains my background information for programmer work.
 - :speech_balloon: Vietnamese, Japanese, English
 - :tada: Cycling 🚲 for now
 
+- :otocat: https://github.com/ruanshiron, https://github.com/vinhactindi
+- :school_satchel: Fjord Bootcamp [@vinhactindi](https://bootcamp.fjord.jp/users/1270)
+
 ***Details***
 
 <details>
