@@ -5,9 +5,10 @@ This document contains my background information for programmer work.
 
 ***Summary***
 - :name_badge: Nguyen The Vinh
-- :school_satchel: Hanoi University of Science and Technology (HUST)
+- :house: Hanoi, Vietnam 🇻🇳
+- :school: Hanoi University of Science and Technology (HUST)
 - :briefcase: Ruby, JavaScript, ReactJS, Vue, Rails
-- :speech_balloon: Vietnamese 🇻🇳, Japanese, English
+- :speech_balloon: Vietnamese, Japanese, English
 - :tada: Cycling 🚲 for now
 
 ***Details***
