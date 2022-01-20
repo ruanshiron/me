@@ -19,7 +19,6 @@
 - 大学：ハノイ工科大学・卒業年月：2021/07
 - IT スキル：Ruby, JavaScript, ReactJS, Vue, Rails
 - 言語：英語、日本語
-- :tada: Cycling 🚲 for now
 
 - ソーシャルアカウント：https://github.com/ruanshiron, https://github.com/vinhactindi
 - Fjord Bootcamp [@vinhactindi](https://bootcamp.fjord.jp/users/1270)
@@ -55,7 +54,7 @@
 
 ## 個人情報
 
-私はゲン・テー・ヴィンです。ハノイから来ました。
+私はグエン・テー・ヴィンです。ハノイから来ました。
 
 ## 学歴・資格
 
