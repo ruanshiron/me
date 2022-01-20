@@ -3,8 +3,8 @@
 <br/>
 <div align="center">
   <a href="https://ruanshiron.com">
-      <img src="images/me.jpg" alt="Me" width="160" height="160">
-    </a>
+    <img src="images/me.jpg" alt="Me" width="160" height="160">
+  </a>
 </div>
 
 Hi, it's Ruanshiron! ✨

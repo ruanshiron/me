@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="widdh=device-width, initial-scale=1.0" />
+    <title>Vinh</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      #home,
+      #educations,
+      #intern-and-work,
+      #nihongo,
+      #hobbies,
+      #projects {
+        min-height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="grid grid-cols-4 gap-4">
+      <div class="col-span-3 pr-4 pl-12">
+        <div class="pt-32" id="home">
+          <img src="images/me.jpg" alt="Me" width="200" height="200" />
+          <h1 class="text-9xl font-extrabold mt-12 mb-8">Nguyen The Vinh</h1>
+          <div class="w-80 border-t-8 border-slate-400 mb-8"></div>
+          <p class="text-3xl text-slate-600 font-extrabold mt-12 mb-8">
+            フルスタック開発者になりたい!
+          </p>
+        </div>
+        <div id="educations">
+          <h2 class="text-6xl font-extrabold pt-8 pb-4">教育</h2>
+          <hr class="mb-8" />
+          <div class="py-12">
+            <img src="images/hust.png" alt="HUST" width="200" height="200" />
+          </div>
+          <p class="text-3xl text-slate-600 py-3">⌛️ 2016から</p>
+          <p class="text-3xl text-slate-600 py-3">🏫 ハノイ工科大学</p>
+          <p class="text-3xl text-slate-600 py-3">⛩ 情報技術学部</p>
+          <p class="text-3xl text-slate-600 py-3">
+            🎓 2021年7月に卒業しました！！！
+          </p>
+        </div>
+        <div id="intern-and-work">
+          <h2 class="text-6xl font-extrabold pt-8 pb-4">経験</h2>
+          <hr class="mb-8" />
+          <dl class="grid grid-cols-4 gap-4 py-4">
+            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+              <p class="font-bold py-1">Ominext JSC</p>
+              <p class="text-slate-400 py-1">2018/06 - 2018/11</p>
+            </dt>
+            <dd class="col-span-3">
+              <p class="text-slate-600 py-1">インターンシップ・パートタイム</p>
+              <p class="text-slate-600 text-2xl py-1">
+                Swift と iOS のプログラミング
+              </p>
+            </dd>
+          </dl>
+          <dl class="grid grid-cols-4 gap-4 py-4">
+            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+              <p class="font-bold py-1">Sun*</p>
+              <p class="text-slate-400 py-1">2020/07 - 2020/09</p>
+            </dt>
+            <dd class="col-span-3">
+              <p class="text-slate-600 py-1">インターンシップ・パートタイム</p>
+              <p class="text-slate-600 text-2xl py-1">Ruby と Rails</p>
+            </dd>
+          </dl>
+          <dl class="grid grid-cols-4 gap-4 py-4">
+            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+              <p class="font-bold py-1">GHDC</p>
+              <p class="text-slate-400 py-1">2020/10 - 2021/03</p>
+            </dt>
+            <dd class="col-span-3">
+              <p class="text-slate-600 py-1">インターンシップ・パートタイム</p>
+              <p class="text-slate-600 text-2xl py-1">Angular</p>
+            </dd>
+          </dl>
+          <dl class="grid grid-cols-4 gap-4 py-4">
+            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+              <p class="font-bold py-1">Fjord Bootcamp</p>
+              <p class="text-slate-400 py-1">2021/10 - 今</p>
+            </dt>
+            <dd class="col-span-3">
+              <p class="text-slate-600 py-1">学生</p>
+              <p class="text-slate-600 text-2xl py-1">
+                Rails など VueJS など アジャイル
+              </p>
+            </dd>
+          </dl>
+        </div>
+        <div id="nihongo">
+          <h2 class="text-6xl font-extrabold pt-8 pb-4">日本語</h2>
+          <hr class="mb-8" />
+          <div class="flex justify-center pt-12">
+            <img
+              class="px-12 border-b border-slate-400"
+              src="images/n3.jpg"
+              alt="N3"
+              width="690"
+            />
+          </div>
+        </div>
+        <div id="hobbies">
+          <h2 class="text-6xl font-extrabold pt-8 pb-4">興味</h2>
+          <hr class="mb-8" />
+          <div class="grid grid-cols-2 gap-4 pt-12">
+            <div class="flex justify-center">
+              <img
+                class="px-12"
+                src="images/kimetsu-no-yaiba.jpeg"
+                alt="Kimetsu no yaiba"
+                width="540"
+              />
+            </div>
+            <div>🚲</div>
+          </div>
+        </div>
+        <div id="projects">
+          <h2 class="text-6xl font-extrabold pt-8 pb-4">創ったもの</h2>
+          <hr class="mb-8" />
+          <div class="grid grid-cols-3 gap-8 pr-4">
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                oumiji
+              </h3>
+              <p>
+                An iOS application with facial recognition function (using
+                Kairos API) used as an application to collect emotional
+                evaluation of employees in the company.
+              </p>
+            </div>
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                rsa-demo
+              </h3>
+              <p>
+                A simple encryption and decryption application that used to demo
+                the theory of RSA encryption.
+              </p>
+            </div>
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                gomoku-react
+              </h3>
+              <p>
+                A simple gomoku game. It has an online version but I had to stop
+                its firebase service.
+              </p>
+            </div>
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                food-guide
+              </h3>
+              <p>A cookpad clone app.</p>
+            </div>
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                cm
+              </h3>
+              <p>
+                An application with statistical functions for clothing
+                production hire.
+              </p>
+            </div>
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                pofocus
+              </h3>
+              <p>My first npm package, it's a pomodoro countdown app.</p>
+            </div>
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                currency_numberal
+              </h3>
+              <p>My first rubygem that use for currency exchange.</p>
+            </div>
+            <div>
+              <h3 class="text-3xl text-slate-600 font-semibold pt-4 pb-2">
+                sorting-demonstration
+              </h3>
+              <p>
+                An application that describes how the sorting algorithm works.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-span-1 py-8">
+        <div class="sticky top-0 border-l-2 border-sky-400 pb-8">
+          <ul class="p-4 pr-0 mt-32 bg-white">
+            <li class="my-4">
+              <a
+                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                href="#home"
+                >私</a
+              >
+            </li>
+            <li class="my-4">
+              <a
+                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                href="#educations"
+                >教育</a
+              >
+            </li>
+            <li class="my-4">
+              <a
+                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                href="#intern-and-work"
+                >経験</a
+              >
+            </li>
+            <li class="my-4">
+              <a
+                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                href="#nihongo"
+                >日本語</a
+              >
+            </li>
+            <li class="my-4">
+              <a
+                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                href="#hobbies"
+                >趣味</a
+              >
+            </li>
+            <li class="my-4">
+              <a
+                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                href="#projects"
+                >創ったもの</a
+              >
+            </li>
+          </ul>
+          <div class="pl-4 text-l text-slate-300">
+            github:
+            <a href="https://github.com/ruanshiron">@ruanshiron</a>
+            <a href="https://github.com/vinhactindi">@vinhactindi</a>
+            fjordbootcamp:
+            <a href="https://bootcamp.fjord.jp/users/1270">@vinhactindi</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-t border-slate-200 text-center text-slate-400">
+      © 2022 ruanshiron
+    </div>
+  </body>
+</html>
