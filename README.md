@@ -7,7 +7,7 @@
   </a>
 </div>
 
-こんにちは。ゲン・テー・ヴィンです。
+こんにちは。グエン・テー・ヴィンです。
 
 以下、私の自己紹介と自己 PR です。
 
@@ -30,17 +30,17 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#personal">個人情報</a>
+      <a href="#個人情報">個人情報</a>
     </li>
     <li>
-      <a href="#education">学歴・資格</a>
+      <a href="#学歴・資格<">学歴・資格</a>
       <ul>
-        <li><a href="#university">大学</a></li>
-        <li><a href="#qualifications">資格</a></li>
+        <li><a href="#大学">大学</a></li>
+        <li><a href="#資格">資格</a></li>
       </ul>
     </li>
     <li>
-      <a href="#intern-and-work">インターン経験・職務経験</a>
+      <a href="#インターン経験・職務経験">インターン経験・職務経験</a>
       <ul>
         <li><a href="#ominext-jsc-201806---201811">Ominext JSC (2018/06 - 2018/11)</a></li>
         <li><a href="#sun-202007---202009">Sun* (2020/07 - 2020/09)</a></li>
@@ -48,8 +48,8 @@
         <li><a href="#fjord-bootcamp-202110---now">Fjord Bootcamp (2021/10 - 現在)</a></li>
       </ul>
     </li>
-    <li><a href="#hobbies">趣味</a></li>
-    <li><a href="#projects">プロジェクト</a></li>
+    <li><a href="#趣味">趣味</a></li>
+    <li><a href="#プロジェクト">プロジェクト</a></li>
   </ol>
 </details>
 
@@ -75,11 +75,11 @@
 
 ### Ominext JSC (2018/06 - 2018/11)
 
-- 業務内容：IOS アプリの作成
 - 言語：Swift
 - OS：macOS
 - DB：Realm.io
 - バージョン管理システーム：Git
+- 業務内容：IOS アプリの作成
 
 ### Sun\* (2020/07 - 2020/09)
 
