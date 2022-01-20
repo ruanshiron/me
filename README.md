@@ -68,7 +68,7 @@ I don't have any long-term preferences. I used to like to draw a little bit, rea
 
 ## Projects
 
-Check out my github for more @ruanshiron or @vinhactindi (Fjord Bootcamp)
+Check out my github for more [@ruanshiron](https://github.com/ruanshiron) or [@vinhactindi](https://github.com/vinhactindi) (Fjord Bootcamp)
 
 - Some fun
   - oumiji
@@ -81,3 +81,49 @@ Check out my github for more @ruanshiron or @vinhactindi (Fjord Bootcamp)
 - Fjord Bootcamp
   - pofocus
   - currency_numberal
+
+### oumiji
+- :octocat: https://github.com/ruanshiron/oumiji
+
+An iOS application with facial recognition function (using Kairos API) used as an application to collect emotional evaluation of employees in the company.
+
+### rsa-demo
+- :earth_asia: https://ruanshiron.com/rsa-demo
+- :octocat: https://github.com/ruanshiron/rsa-demo
+
+A simple encryption and decryption application that used to demo the theory of RSA encryption.
+
+### sorting-demonstration
+- :octocat: https://github.com/ruanshiron/Sorting-Demonstration
+
+An application that describes how the sorting algorithm works.
+
+### gomoku-react
+- :earth_asia: https://ruanshiron.com/gomoku-react/
+- :octocat: https://github.com/ruanshiron/gomoku-react
+- :octocat: https://github.com/ruanshiron/x-vs-o (source code for online version)
+
+A simple gomoku game. It has an online version but I had to stop its firebase service.
+
+### food-guide
+- :earth_asia: https://food-guide.vercel.app/
+- :octocat: https://github.com/ruanshiron/food-guide
+
+A cookpad clone app but cheaper 😅.
+
+### cm 
+- :octocat: https://github.com/ruanshiron/cm_client
+
+An application with statistical functions for clothing production hire.
+
+### pofocus
+- :earth_asia: https://www.npmjs.com/package/pofocus
+
+My first npm package, it's a pomodoro countdown app.
+
+### currency_numberal
+- :earth_asia: https://rubygems.org/gems/currency_numberal
+
+My first rubygem that use for currency exchange.
+
+***Arigathank Gozaimuch!***
