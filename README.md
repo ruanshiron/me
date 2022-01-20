@@ -70,17 +70,17 @@ I don't have any long-term preferences. I used to like to draw a little bit, rea
 
 Check out my github for more [@ruanshiron](https://github.com/ruanshiron) or [@vinhactindi](https://github.com/vinhactindi) (Fjord Bootcamp)
 
-- Some fun
-  - oumiji
-  - rsa-demo
-  - sorting-demonstration
-  - gomoku-react
-  - food-guide
-- Some serious
-  - cm
-- Fjord Bootcamp
-  - pofocus
-  - currency_numberal
+- Fun 🥳
+  - [oumiji](#oumiji)
+  - [rsa-demo](#rsa-demo)
+  - [sorting-demonstration](#sorting-demonstration)
+  - [gomoku-react](#sorting-demonstration)
+  - [food-guide](#sorting-demonstration)
+- Serious 🤔
+  - [cm](#cm)
+- Fjord Bootcamp 🏕
+  - [pofocus](#pofocus)
+  - [currency_numberal](#pofocus)
 
 ### oumiji
 - :octocat: https://github.com/ruanshiron/oumiji
