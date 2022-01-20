@@ -2,8 +2,8 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-      <img src="images/me.jpg" alt="Me" width="80" height="80">
+  <a href="https://ruanshiron.com">
+      <img src="images/me.jpg" alt="Me" width="160" height="160">
     </a>
 </div>
 
