@@ -18,20 +18,20 @@
     </style>
   </head>
   <body>
-    <div class="grid grid-cols-4 gap-4">
+    <div class="grid grid-cols-4 gap-2 md:gap-4">
       <div class="col-span-3 pr-4 pl-12">
         <div class="pt-32" id="home">
           <img src="images/me.jpg" alt="Me" width="200" height="200" />
           <h1 class="text-6xl md:text-9xl font-extrabold mt-12 mb-8">
             Nguyen The Vinh
           </h1>
-          <div class="w-80 border-t-8 border-slate-400 mb-8"></div>
+          <div class="w-40 sm:w-80 border-t-8 border-slate-400 mb-8"></div>
           <p class="text-3xl text-slate-600 font-extrabold mt-12 mb-8">
             フルスタック開発者になりたい!
           </p>
         </div>
         <div id="educations">
-          <h2 class="text-6xl font-extrabold pt-8 pb-4">教育</h2>
+          <h2 class="text-6xl font-extrabold pt-8 pb-4">学歴</h2>
           <hr class="mb-8" />
           <div class="py-12">
             <img src="images/hust.png" alt="HUST" width="200" height="200" />
@@ -148,7 +148,7 @@
         <div id="projects">
           <h2 class="text-6xl font-extrabold pt-8 pb-4">創ったもの</h2>
           <hr class="mb-8" />
-          <div class="grid md:grid-cols-3 gap-8 pr-4">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8 pr-4">
             <div>
               <h3
                 class="text-3xl text-slate-600 font-semibold pt-4 pb-2 truncate"
@@ -274,11 +274,11 @@
         </div>
       </div>
       <div class="col-span-1 py-8">
-        <div class="sticky top-0 border-l-2 border-sky-400 pb-8 bg-white">
+        <div class="sticky top-0 pr-4 border-l-2 border-sky-400 pb-8 bg-white">
           <ul class="p-4 pr-0 mt-32">
             <li class="my-4">
               <a
-                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                class="headings text-slate-600 text-xl sm:text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
                 href="#home"
               >
                 私
@@ -286,15 +286,15 @@
             </li>
             <li class="my-4">
               <a
-                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                class="headings text-slate-600 text-xl sm:text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
                 href="#educations"
               >
-                教育
+                学歴
               </a>
             </li>
             <li class="my-4">
               <a
-                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                class="headings text-slate-600 text-xl sm:text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
                 href="#intern-and-work"
               >
                 経験
@@ -302,7 +302,7 @@
             </li>
             <li class="my-4">
               <a
-                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                class="headings text-slate-600 text-xl sm:text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
                 href="#qualifications"
               >
                 資格
@@ -310,7 +310,7 @@
             </li>
             <li class="my-4">
               <a
-                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                class="headings text-slate-600 text-xl sm:text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
                 href="#hobbies"
               >
                 趣味
@@ -318,14 +318,14 @@
             </li>
             <li class="my-4">
               <a
-                class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
+                class="headings text-slate-600 text-xl sm:text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
                 href="#projects"
               >
                 創ったもの
               </a>
             </li>
           </ul>
-          <div class="pl-4 pr-4 text-l text-slate-300">
+          <div class="pl-4 text-sm md:text-l text-slate-300 text-ellipsis">
             <p>
               github:
               <a
