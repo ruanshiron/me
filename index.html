@@ -22,7 +22,9 @@
       <div class="col-span-3 pr-4 pl-12">
         <div class="pt-32" id="home">
           <img src="images/me.jpg" alt="Me" width="200" height="200" />
-          <h1 class="text-9xl font-extrabold mt-12 mb-8">Nguyen The Vinh</h1>
+          <h1 class="text-6xl md:text-9xl font-extrabold mt-12 mb-8">
+            Nguyen The Vinh
+          </h1>
           <div class="w-80 border-t-8 border-slate-400 mb-8"></div>
           <p class="text-3xl text-slate-600 font-extrabold mt-12 mb-8">
             フルスタック開発者になりたい!
@@ -44,8 +46,10 @@
         <div id="intern-and-work">
           <h2 class="text-6xl font-extrabold pt-8 pb-4">経験</h2>
           <hr class="mb-8" />
-          <dl class="grid grid-cols-4 gap-4 py-4">
-            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+          <dl class="grid grid-cols-1 md:grid-cols-4 gap-4 py-4">
+            <dt
+              class="col-span-1 pr-4 md:border-r-2 border-slate-400 md:text-right"
+            >
               <p class="font-bold py-1">Ominext JSC</p>
               <p class="text-slate-400 py-1">2018/06 - 2018/11</p>
             </dt>
@@ -55,9 +59,9 @@
                 Swift と iOS のプログラミング
               </p>
             </dd>
-          </dl>
-          <dl class="grid grid-cols-4 gap-4 py-4">
-            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+            <dt
+              class="col-span-1 pr-4 md:border-r-2 border-slate-400 md:text-right"
+            >
               <p class="font-bold py-1">Sun*</p>
               <p class="text-slate-400 py-1">2020/07 - 2020/09</p>
             </dt>
@@ -65,9 +69,9 @@
               <p class="text-slate-600 py-1">インターンシップ・パートタイム</p>
               <p class="text-slate-600 text-2xl py-1">Ruby と Rails</p>
             </dd>
-          </dl>
-          <dl class="grid grid-cols-4 gap-4 py-4">
-            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+            <dt
+              class="col-span-1 pr-4 md:border-r-2 border-slate-400 md:text-right"
+            >
               <p class="font-bold py-1">GHDC</p>
               <p class="text-slate-400 py-1">2020/10 - 2021/03</p>
             </dt>
@@ -75,9 +79,9 @@
               <p class="text-slate-600 py-1">インターンシップ・パートタイム</p>
               <p class="text-slate-600 text-2xl py-1">Angular</p>
             </dd>
-          </dl>
-          <dl class="grid grid-cols-4 gap-4 py-4">
-            <dt class="col-span-1 pr-4 border-r-2 border-slate-400 text-right">
+            <dt
+              class="col-span-1 pr-4 md:border-r-2 border-slate-400 md:text-right"
+            >
               <p class="font-bold py-1">Fjord Bootcamp</p>
               <p class="text-slate-400 py-1">2021/10 - 今</p>
             </dt>
@@ -92,34 +96,40 @@
         <div id="qualifications">
           <h2 class="text-6xl font-extrabold pt-8 pb-4">資格</h2>
           <hr class="mb-8" />
-          <div class="grid grid-cols-2 gap-4 pt-12">
-            <div class="flex justify-center">
-              <img
-                class="px-12 border-b border-slate-400"
-                src="images/n3.jpg"
-                alt="N3"
-                width="690"
-              />
+          <div class="grid md:grid-cols-2 gap-4 pt-12">
+            <div class="flex flex-col justify-end">
+              <div class="flex justify-center">
+                <img
+                  class="md:px-12 border-b border-slate-400"
+                  src="images/n3.jpg"
+                  alt="N3"
+                  width="600"
+                  height="600"
+                />
+              </div>
+              <p class="text-center pt-3 text-slate-400">JLPTN3 2019/12</p>
             </div>
-            <div class="flex justify-center">
-              <img
-                class="px-12 border-b border-slate-400"
-                src="images/fe.jpg"
-                alt="FE"
-                width="690"
-              />
+            <div class="flex flex-col justify-end">
+              <div class="flex justify-center">
+                <img
+                  class="md:px-12 border-b border-slate-400"
+                  src="images/fe.jpg"
+                  alt="FE"
+                  width="600"
+                  height="600"
+                />
+              </div>
+              <p class="text-center pt-3 text-slate-400">FE 2020/10</p>
             </div>
-            <p class="text-center pt-3 text-slate-400">JLPTN3 2019/12</p>
-            <p class="text-center pt-3 text-slate-400">FE 2020/10</p>
           </div>
         </div>
         <div id="hobbies">
           <h2 class="text-6xl font-extrabold pt-8 pb-4">興味</h2>
           <hr class="mb-8" />
-          <div class="grid grid-cols-2 gap-4 pt-12">
+          <div class="grid md:grid-cols-2 gap-4 pt-12">
             <div class="flex justify-center">
               <img
-                class="px-12"
+                class="md:px-12"
                 src="images/kimetsu-no-yaiba.jpeg"
                 alt="Kimetsu no yaiba"
                 width="540"
@@ -127,7 +137,7 @@
             </div>
             <div class="flex justify-center">
               <img
-                class="px-12"
+                class="md:px-12"
                 src="images/cycling.jpeg"
                 alt="Cycling"
                 width="540"
@@ -138,7 +148,7 @@
         <div id="projects">
           <h2 class="text-6xl font-extrabold pt-8 pb-4">創ったもの</h2>
           <hr class="mb-8" />
-          <div class="grid grid-cols-3 gap-8 pr-4">
+          <div class="grid md:grid-cols-3 gap-8 pr-4">
             <div>
               <h3
                 class="text-3xl text-slate-600 font-semibold pt-4 pb-2 truncate"
@@ -264,8 +274,8 @@
         </div>
       </div>
       <div class="col-span-1 py-8">
-        <div class="sticky top-0 border-l-2 border-sky-400 pb-8">
-          <ul class="p-4 pr-0 mt-32 bg-white">
+        <div class="sticky top-0 border-l-2 border-sky-400 pb-8 bg-white">
+          <ul class="p-4 pr-0 mt-32">
             <li class="my-4">
               <a
                 class="headings text-slate-600 text-2xl font-bold hover:text-sky-500 focus:border-blue-400"
@@ -315,7 +325,7 @@
               </a>
             </li>
           </ul>
-          <div class="pl-4 text-l text-slate-300">
+          <div class="pl-4 pr-4 text-l text-slate-300">
             <p>
               github:
               <a
